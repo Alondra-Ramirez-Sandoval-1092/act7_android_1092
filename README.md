@@ -1,19 +1,13 @@
 # Act7_widget_1092
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![image](https://github.com/user-attachments/assets/32baf623-38c4-428a-876d-527ed85c915c)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/d082f77a-a109-4231-98ac-9463d8030ab7)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/db034475-3e43-4667-b03f-4436e74497a6)
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+![image](https://github.com/user-attachments/assets/d8a24078-82bb-42c4-9fa9-ca3f86cb2ca1)
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/011d03a0-7d2e-42d9-bb93-8b03fdecf4d2)
 
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/user-attachments/assets/4f468658-a6a9-499b-bbc9-341a2b0b7e70)
